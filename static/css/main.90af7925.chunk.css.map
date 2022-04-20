@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,EACI,qBACJ,CAEA,KACI,8BACJ","file":"main.90af7925.chunk.css","sourcesContent":["* {\n    box-sizing: border-box;\n}\n\nbody {\n    font-family: \"Karla\", sans-serif;\n}"]}
